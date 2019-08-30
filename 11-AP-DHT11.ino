@@ -8,8 +8,8 @@
 #include <ESP8266WiFi.h>
 
 // Seu AP da Rede
-const char *ssid = "DL-CARVALE"; //Nome do AP a ser conectado
-const char *password = "le021322"; //Senha do AP
+const char *ssid = "SEUAP"; //Nome do AP a ser conectado
+const char *password = "SUASENHA"; //Senha do AP
 
 // AP do ESP
 const char *ssid_ap = "SEUNOME"; //Nome do SSID do ESP8266
