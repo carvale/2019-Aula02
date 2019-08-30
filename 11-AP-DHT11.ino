@@ -8,7 +8,7 @@
 #include <SimpleDHT.h>
 
 
-int pinDHT11 = D1; // Pino onte está conectado o DHT11
+int pinDHT11 = D6; // Pino onte está conectado o DHT11
 SimpleDHT11 dht11(pinDHT11);
 
 const char *ssid = "seuap"; //Nome do AP a ser conectado
