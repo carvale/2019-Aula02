@@ -7,8 +7,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char *ssid = "CARVALE-DL"; //Node do SSID a ser transmitido
-const char *password = "le021322"; //Senha
+const char *ssid = "SeuAP"; //Node do SSID a ser transmitido
+const char *password = "SuaSenha"; //Senha
 
 WiFiServer servidor(80);
 
