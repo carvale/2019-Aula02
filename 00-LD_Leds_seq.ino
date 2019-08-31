@@ -1,11 +1,11 @@
 
 // Define o pino dos LEDs
-#define LedVd D0
-#define LedAm D1
-#define LedVm D2
-#define LedAz D4
-#define Botao1 D3
-#define Botao2 D5
+#define LedVd 16 //DO
+#define LedAm 5 //D1
+#define LedVm 4 //D2
+#define LedAz 2 //D4
+#define Botao1 0//D3
+#define Botao2 5 //D5
 
 
 String st1; // Variável String
